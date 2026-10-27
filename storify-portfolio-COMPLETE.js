@@ -264,10 +264,10 @@ const ALL_CARDS = [
   {theme:'vantage', cat:'health', color:'light', name:'Vantage Sport', url:'https://vantage-sport.myeasyorders.com/', img:'https://files.easy-orders.net/1790656848566084839.webp'},
   {theme:'vantage', cat:'garden', color:'light', name:'Vantage Plant', url:'https://vantage-plant.myeasyorders.com/', img:'https://files.easy-orders.net/1790656860568168342.webp'},
   {theme:'vantage', cat:'garden', color:'light', name:'Vantage Flower', url:'https://vantage-flower.myeasyorders.com/', img:'https://files.easy-orders.net/1790656869960442363.webp'},
-  {theme:'vantage', cat:'sports-nutrition', color:'light', name:'Vantage Supplements', url:'https://vantage-mokamelatgem.myeasyorders.com/', img:'https://files.easy-orders.net/1790656896137981631.webp'},
+  {theme:'vantage', cat:'health', color:'light', name:'Vantage Supplements', url:'https://vantage-mokamelatgem.myeasyorders.com/', img:'https://files.easy-orders.net/1790656896137981631.webp'},
   {theme:'vantage', cat:'gifts', color:'light', name:'Vantage Handmade', url:'https://vantage-handmadeproduct.myeasyorders.com/', img:'https://files.easy-orders.net/1790656909922060473.webp'},
   {theme:'vantage', cat:'pets', color:'light', name:'Vantage Pets', url:'https://vantage-pets.myeasyorders.com/', img:'https://files.easy-orders.net/1790656918037970616.webp'},
-  {theme:'vantage', cat:'bicycle', color:'light', name:'Vantage Bicycle', url:'https://vantage-bicycle.myeasyorders.com/', img:'https://files.easy-orders.net/1790656933040106717.webp'},
+  {theme:'vantage', cat:'general', color:'light', name:'Vantage Bicycle', url:'https://vantage-bicycle.myeasyorders.com/', img:'https://files.easy-orders.net/1790656933040106717.webp'},
   {theme:'vantage', cat:'kids', color:'light', name:'Vantage Kids Accessories', url:'https://vantage-kidsaccessories.myeasyorders.com/', img:'https://files.easy-orders.net/1790656965024353009.webp'},
 
   // Lines Theme
@@ -285,8 +285,17 @@ const ALL_CARDS = [
   {theme:'care', cat:'electronics', color:'light', name:'Care Electronics', url:'https://care-electronics.myeasyorders.com/', bestSeller:true, img:'https://files.easy-orders.net/1791278845047261623.webp'},
   {theme:'care', cat:'electronics', color:'dark', name:'Care Headphones', url:'https://care-headphones.myeasyorders.com/', bestSeller:true, img:'https://files.easy-orders.net/1791278834565108100.webp'},
   {theme:'care', cat:'jewelry', color:'light', name:'Care Jewelry', url:'https://care-jewelry.myeasyorders.com/', bestSeller:true, img:'https://files.easy-orders.net/1791278850403946303.webp'},
-  {theme:'care', cat:'garden', color:'light', name:'Care Plants', url:'https://care-plants.myeasyorders.com/', bestSeller:true, img:'https://files.easy-orders.net/1791278853547881314.webp'}
+  {theme:'care', cat:'garden', color:'light', name:'Care Plants', url:'https://care-plants.myeasyorders.com/', bestSeller:true, img:'https://files.easy-orders.net/1791278853547881314.webp'},
 
+  // Saudi Theme - Categories
+  {theme:'saudi', cat:'cosmetics', color:'light', name:'Saudi Cosmetics', url:'https://saudi-cosmetics.myeasyorders.com/', img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
+  {theme:'saudi', cat:'watches', color:'dark', name:'Saudi Watches', url:'https://saudi-watches.myeasyorders.com/', img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
+  {theme:'saudi', cat:'furniture', color:'light', name:'Saudi Furniture', url:'https://saudi-furniture.myeasyorders.com/', img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
+  {theme:'saudi', cat:'perfumes', color:'light', name:'Saudi Perfumes', url:'https://saudi-perfumes.myeasyorders.com/', img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
+  {theme:'saudi', cat:'fashion', color:'light', name:'Saudi Men Fashion', url:'https://saudi-men-fashion.myeasyorders.com/', img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
+  {theme:'saudi', cat:'electronics', color:'light', name:'Saudi Electronics', url:'https://saudi-electronics.myeasyorders.com/', img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
+  {theme:'saudi', cat:'fashion', color:'light', name:'Saudi Fashion', url:'https://saudi-fashion.myeasyorders.com/', img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
+  {theme:'saudi', cat:'shoes', color:'light', name:'Saudi Bags', url:'https://saudi-bags.myeasyorders.com/', img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'}
 ];
 
 const CATS = [
@@ -310,9 +319,7 @@ const CATS = [
   { id: "automotive", label: "Automotive & Accessories" },
   { id: "digital", label: "Digital Products" },
   { id: "tools", label: "Tools & Equipment" },
-  { id: "general", label: "General Store" },
-  { id: "sports-nutrition", label: "Sports Nutrition Supplements" },
-  { id: "bicycle", label: "Bicycle" }
+  { id: "general", label: "General Store" }
 ];
 
 function cardHasCategory(card, id) {
