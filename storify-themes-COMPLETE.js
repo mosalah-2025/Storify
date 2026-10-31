@@ -214,11 +214,11 @@ const ALL_CARDS = [
   {theme:'seven',cat:'fashion',color:'light',name:'Seven Swimwear',url:'https://seven-swimwear.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1785242731089957393.png'},
   {theme:'seven',cat:'kids',color:'light',name:'Seven Kids',url:'https://seven-kids.myeasyorders.com/',img:'https://files.easy-orders.net/1785242734337787965.png'},
 
-  {theme:'nono',cat:['kids','toys'],color:'light',name:'Nono Kids',url:'https://nono-kidss.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1786273803585816583.png'},
-  {theme:'nono',cat:['kids'],color:'light',name:'Nono Clothes',url:'https://nono-clothes.myeasyorders.com/',img:'https://files.easy-orders.net/1786273812592553570.png'},
-  {theme:'nono',cat:['kids','toys'],color:'light',name:'Nono Toys',url:'https://nono-toys.myeasyorders.com/',img:'https://files.easy-orders.net/1786273818622133316.png'},
-  {theme:'nono',cat:['kids','books'],color:'light',name:'Nono Books',url:'https://nono-books.myeasyorders.com/',img:'https://files.easy-orders.net/1786273823950022129.png'},
-  {theme:'nono',cat:['gifts'],color:'light',name:'Nono Gifts',url:'https://nono-gifts.myeasyorders.com/',img:'https://files.easy-orders.net/1786273831259282537.png'},
+  {theme:'nono',cat:['kids','toys'],color:'light',name:'Nono Kids',url:'https://nono-kidss.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793457304973524846.webp'},
+  {theme:'nono',cat:['kids'],color:'light',name:'Nono Clothes',url:'https://nono-clothes.myeasyorders.com/',img:'https://files.easy-orders.net/1793457311892318584.webp'},
+  {theme:'nono',cat:['kids','toys'],color:'light',name:'Nono Toys',url:'https://nono-toys.myeasyorders.com/',img:'https://files.easy-orders.net/1793457311892215475.webp'},
+  {theme:'nono',cat:['kids','books'],color:'light',name:'Nono Books',url:'https://nono-books.myeasyorders.com/',img:'https://files.easy-orders.net/1793457311763248011.webp'},
+  {theme:'nono',cat:['gifts'],color:'light',name:'Nono Gifts',url:'https://nono-gifts.myeasyorders.com/',img:'https://files.easy-orders.net/1793457311026657193.webp'},
 
   {theme:'convert',cat:'tools',color:'light',name:'Convert Tools',url:'https://convert-tools.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1786617447376726578.png'},
   {theme:'convert',cat:['digital','toys'],color:'dark',name:'Convert Gamers',url:'https://convert-gamers.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1786617466110911913.png'},
