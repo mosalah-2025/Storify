@@ -232,12 +232,12 @@ const ALL_CARDS = [
   {theme:'convert',cat:'general',color:'light',name:'Convert General',url:'https://convert-general.myeasyorders.com/',img:'https://files.easy-orders.net/1786617532487397800.png'},
   {theme:'convert',cat:'perfumes',color:'light',name:'Convert Perfumes',url:'https://convert-perfumes.myeasyorders.com/',img:'https://files.easy-orders.net/1786617542307245211.png'},
 
-  {theme:'pure',cat:'furniture',color:'light',name:'Pure Furniture',url:'https://pure-furniture.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1789388535455901728.png'},
-  {theme:'pure',cat:'fashion',color:'light',name:'Pure Fashion',url:'https://pure-fashion.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1789388541684688118.png'},
-  {theme:'pure',cat:'furniture',color:'light',name:'Pure Home Decore',url:'https://pure-homedecore.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1789388544749297724.png'},
-  {theme:'pure',cat:'food',color:'light',name:'Pure Chocolate',url:'https://pure-food.myeasyorders.com/',img:'https://files.easy-orders.net/1789388552176863755.png'},
-  {theme:'pure',cat:'pets',color:'light',name:'Pure Pets',url:'https://pure-pets.myeasyorders.com/',img:'https://files.easy-orders.net/1789388558491831763.png'},
-  {theme:'pure',cat:'gifts',color:'light',name:'Pure Flowers',url:'https://pure-flower.myeasyorders.com/',img:'https://files.easy-orders.net/1789388564524715313.png'},
+  {theme:'pure',cat:'furniture',color:'light',name:'Pure Furniture',url:'https://pure-furniture.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793459012926572351.webp'},
+  {theme:'pure',cat:'fashion',color:'light',name:'Pure Fashion',url:'https://pure-fashion.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793458857391032680.webp'},
+  {theme:'pure',cat:'furniture',color:'light',name:'Pure Home Decore',url:'https://pure-homedecore.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793458903911057246.webp'},
+  {theme:'pure',cat:'food',color:'light',name:'Pure Chocolate',url:'https://pure-food.myeasyorders.com/',img:'https://files.easy-orders.net/1793458875311487964.webp'},
+  {theme:'pure',cat:'pets',color:'light',name:'Pure Pets',url:'https://pure-pets.myeasyorders.com/',img:'https://files.easy-orders.net/1793458875167763430.webp'},
+  {theme:'pure',cat:'gifts',color:'light',name:'Pure Flowers',url:'https://pure-flower.myeasyorders.com/',img:'https://files.easy-orders.net/1793458873759102672.webp'},
 
   {theme:'void',cat:'cosmetics',color:'light',name:'Void Cosmetics',url:'https://void-cosmetics.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793458590059570775.webp'},
   {theme:'void',cat:'fashion',color:'light',name:'Void Fashion',url:'https://void-fashion.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793458596346397345.webp'},
