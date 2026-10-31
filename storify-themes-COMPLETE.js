@@ -1,6 +1,6 @@
 /* Source JS block 1 */
-const lightLogoSrc = "https://files.easy-orders.net/1791473000481535121.png";
-const darkLogoSrc  = "https://files.easy-orders.net/1791473002290328333.png";
+const lightLogoSrc = "https://files.easy-orders.net/1793459950183954815.webp";
+const darkLogoSrc  = "https://files.easy-orders.net/1793459950472177639.webp";
 
 const sunIconHTML = `
   <circle cx="12" cy="12" r="5"></circle>
