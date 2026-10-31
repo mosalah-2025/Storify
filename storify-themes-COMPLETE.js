@@ -119,15 +119,15 @@ let headerSearchQuery = "";
 let filteredCards = [];
 
 const ALL_CARDS = [
-  {theme:'nature',cat:'fashion',color:'light',name:'Nature Fashion',url:'https://nature-fashion.myeasyorders.com',img:'https://files.easy-orders.net/1779745785260319883.png'},
-  {theme:'nature',cat:'perfumes',color:'light',name:'Nature Perfumes',url:'https://nature-perfumes.myeasyorders.com',img:'https://files.easy-orders.net/1779745549281665643.png'},
-  {theme:'nature',cat:'furniture',color:'light',name:'Nature Furniture',url:'https://nature-furniture.myeasyorders.com',img:'https://files.easy-orders.net/1779745781936025781.png'},
-  {theme:'nature',cat:'watches',color:'light',name:'Nature Glasses',url:'https://nature-glasses.myeasyorders.com',img:'https://files.easy-orders.net/1779745792790365890.png'},
-  {theme:'nature',cat:'cosmetics',color:'light',name:'Nature Cosmetics',url:'https://nature-cosmetics.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1779745504532016495.png'},
-  {theme:'nature',cat:'gifts',color:'light',name:'Nature Handmade',url:'https://nature-handmade.myeasyorders.com/',img:'https://files.easy-orders.net/1779745803254860506.png'},
-  {theme:'nature',cat:'pets',color:'light',name:'Nature Pets',url:'https://nature-pets.myeasyorders.com',img:'https://files.easy-orders.net/1779745797366829944.png'},
-  {theme:'nature',cat:'kids',color:'light',name:'Nature Kids',url:'https://nature-kids.myeasyorders.com/',img:'https://files.easy-orders.net/1779745807892676678.png'},
-  {theme:'nature',cat:'jewelry',color:'light',name:'Nature Jewelry',url:'https://nature-jewelry.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1781450070067163819.png'},
+  {theme:'nature',cat:'fashion',color:'light',name:'Nature Fashion',url:'https://nature-fashion.myeasyorders.com',img:'https://files.easy-orders.net/1793451199635543976.webp'},
+  {theme:'nature',cat:'perfumes',color:'light',name:'Nature Perfumes',url:'https://nature-perfumes.myeasyorders.com',img:'https://files.easy-orders.net/1793451196268663997.webp'},
+  {theme:'nature',cat:'furniture',color:'light',name:'Nature Furniture',url:'https://nature-furniture.myeasyorders.com',img:'https://files.easy-orders.net/1793451200311352313.webp'},
+  {theme:'nature',cat:'watches',color:'light',name:'Nature Glasses',url:'https://nature-glasses.myeasyorders.com',img:'hhttps://files.easy-orders.net/1793451200540475844.webp'},
+  {theme:'nature',cat:'cosmetics',color:'light',name:'Nature Cosmetics',url:'https://nature-cosmetics.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1793451193814497225.webp'},
+  {theme:'nature',cat:'gifts',color:'light',name:'Nature Handmade',url:'https://nature-handmade.myeasyorders.com/',img:'https://files.easy-orders.net/1793451201829409764.webp'},
+  {theme:'nature',cat:'pets',color:'light',name:'Nature Pets',url:'https://nature-pets.myeasyorders.com',img:'https://files.easy-orders.net/1793451201815461804.webp'},
+  {theme:'nature',cat:'kids',color:'light',name:'Nature Kids',url:'https://nature-kids.myeasyorders.com/',img:'https://files.easy-orders.net/1793451201908261635.webp'},
+  {theme:'nature',cat:'jewelry',color:'light',name:'Nature Jewelry',url:'https://nature-jewelry.myeasyorders.com',bestSeller:true,img:'hhttps://files.easy-orders.net/1793451201570319566.webp'},
 
   {theme:'hype',cat:'perfumes',color:'light',name:'Hype Perfumes',url:'https://hype-perfumes.myeasyorders.com',img:'https://files.easy-orders.net/1780330273152604698.png'},
   {theme:'hype',cat:'electronics',color:'light',name:'Hype Electronics',url:'https://hype-electronics.myeasyorders.com',img:'https://files.easy-orders.net/1780330297625456261.png'},
