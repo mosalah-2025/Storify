@@ -173,9 +173,9 @@ const ALL_CARDS = [
   {theme:'blast',cat:'kids',color:'light',name:'Blast Children',url:'https://blast-children.myeasyorders.com/',img:'https://files.easy-orders.net/1793455141897709512.webp'},
   {theme:'blast',cat:'garden',color:'light',name:'Blast Garden',url:'https://blast-garden.myeasyorders.com/',img:'https://files.easy-orders.net/1793455141897697596.webp'},
 
-  {theme:'volta',cat:'health',color:'dark',name:'Dark Supplements',url:'https://dark-supplements.myeasyorders.com/',img:'https://files.easy-orders.net/1793455891405319665.webp'},
+  {theme:'volta',cat:'health',color:'dark',name:'Dark Supplements',url:'https://dark-supplements.myeasyorders.com/',img:'https://files.easy-orders.net/1793456111281900908.webp'},
   {theme:'volta',cat:'health',color:'light',name:'Volta Supplements',url:'https://volta-supplements.myeasyorders.com/',img:'https://files.easy-orders.net/1793455880006796741.webp'},
-  {theme:'volta',cat:'digital',color:'dark',name:'Volta Gamers',url:'https://volta-gamers.myeasyorders.com/',img:'https://files.easy-orders.net/1780844802748971914.png'},
+  {theme:'volta',cat:'digital',color:'dark',name:'Volta Gamers',url:'https://volta-gamers.myeasyorders.com/',img:'https://files.easy-orders.net/1793456082060592332.webp'},
   {theme:'volta',cat:'electronics',color:'light',name:'Volta Electronics',url:'https://volta-electronics.myeasyorders.com/',img:'https://files.easy-orders.net/1793455888618406132.webp'},
   {theme:'volta',cat:'shoes',color:'light',name:'Volta Bags',url:'https://volta-bags.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793455889150983767.webp'},
   {theme:'volta',cat:'electronics',color:'dark',name:'Dark Electronics',url:'https://dark-electronics.myeasyorders.com/',img:'https://files.easy-orders.net/1793455891405319665.webp'},
