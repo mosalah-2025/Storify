@@ -142,12 +142,12 @@ const ALL_CARDS = [
   {theme:'hype',cat:'tools',color:'light',name:'Hype Tools',url:'https://hype-tools.myeasyorders.com/',img:'https://files.easy-orders.net/1793452467351497736.webp'},
   {theme:'hype',cat:'jewelry',color:'light',name:'Hype Jewelry',url:'https://hype-jewelry.myeasyorders.com',img:'https://files.easy-orders.net/1793452465209243368.webp'},
 
-  {theme:'elite',cat:'fashion',color:'light',name:'ELITE AVYRO',url:'https://avyro-elite.myeasyorders.com',img:'https://files.easy-orders.net/1779381114077598574.png'},
-  {theme:'elite',cat:'watches',color:'light',name:'ELITE WALLETS',url:'https://elite-wallets.myeasyorders.com',img:'https://files.easy-orders.net/1779366030528687175.png'},
-  {theme:'elite',cat:'furniture',color:'light',name:'ELITE FURNITURE',url:'https://elite-furniture.myeasyorders.com',img:'https://files.easy-orders.net/1779381152202320488.png'},
-  {theme:'elite',cat:'health',color:'light',name:'ELITE Fit',url:'https://elite-supplements.myeasyorders.com',img:'https://files.easy-orders.net/1779381427142956547.png'},
-  {theme:'elite',cat:'fashion',color:'light',name:'ELITE SPORTS',url:'https://elite-sport.myeasyorders.com',img:'https://files.easy-orders.net/1779381061952581300.png'},
-  {theme:'elite',cat:'furniture',color:'light',name:'ELITE GALLERY',url:'https://elite-gallery.myeasyorders.com',img:'https://files.easy-orders.net/1779381109740287680.png'},
+  {theme:'elite',cat:'fashion',color:'light',name:'ELITE AVYRO',url:'https://avyro-elite.myeasyorders.com',img:'https://files.easy-orders.net/1793452964687043370.webp'},
+  {theme:'elite',cat:'watches',color:'light',name:'ELITE WALLETS',url:'https://elite-wallets.myeasyorders.com',img:'https://files.easy-orders.net/1793452965476513064.webp'},
+  {theme:'elite',cat:'furniture',color:'light',name:'ELITE FURNITURE',url:'https://elite-furniture.myeasyorders.com',img:'https://files.easy-orders.net/1793452965788516371.webp'},
+  {theme:'elite',cat:'health',color:'light',name:'ELITE Fit',url:'https://elite-supplements.myeasyorders.com',img:'https://files.easy-orders.net/1793452966348955445.webp'},
+  {theme:'elite',cat:'fashion',color:'light',name:'ELITE SPORTS',url:'https://elite-sport.myeasyorders.com',img:'https://files.easy-orders.net/1793452966331619134.webp'},
+  {theme:'elite',cat:'furniture',color:'light',name:'ELITE GALLERY',url:'https://elite-gallery.myeasyorders.com',img:'https://files.easy-orders.net/1793452966626423968.webp'},
 
   {theme:'phoenix',cat:'cosmetics',color:'light',name:'PHOENIX Cosmetics',url:'https://phoenix-cosmetics.myeasyorders.com',img:'https://files.easy-orders.net/1779381547761255255.png'},
   {theme:'phoenix',cat:'fashion',color:'light',name:'PHOENIX AVYRO',url:'https://phoenix-avyro.myeasyorders.com',img:'https://files.easy-orders.net/1779381171606105293.png'},
