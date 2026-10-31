@@ -158,12 +158,12 @@ const ALL_CARDS = [
   {theme:'phoenix',cat:'shoes',color:'light',name:'Phoenix Wallets',url:'https://phoenix-wallets.myeasyorders.com/',img:'https://files.easy-orders.net/1793453468167982156.webp'},
   {theme:'phoenix',cat:'watches',color:'light',name:'Phoenix Glasses',url:'https://phoenix-glasses.myeasyorders.com/',img:'https://files.easy-orders.net/1793453468242805652.webp'},
 
-  {theme:'pearl',cat:'furniture',color:'light',name:'Peral Gallery',url:'https://peral-gallery.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1779381048506738041.png'},
-  {theme:'pearl',cat:'perfumes',color:'light',name:'Pearl Perfume',url:'https://pearl-perfume.myeasyorders.com/',img:'https://files.easy-orders.net/1779381024212229427.png'},
-  {theme:'pearl',cat:'watches',color:'light',name:'Pearl Watches',url:'https://pearl-watches.myeasyorders.com',img:'https://files.easy-orders.net/1779381015732216693.png'},
-  {theme:'pearl',cat:'shoes',color:'light',name:'PEARL BAGS',url:'https://pearl-bags.myeasyorders.com/',img:'https://files.easy-orders.net/1779381007739289904.png'},
-  {theme:'pearl',cat:'fashion',color:'light',name:'Luxury Fashion',url:'https://luxury-fashion.myeasyorders.com',img:'https://files.easy-orders.net/1779381033268981318.png'},
-  {theme:'pearl',cat:'jewelry',color:'light',name:'Peral Jewelry',url:'https://peral-jewelry.myeasyorders.com',img:'https://files.easy-orders.net/1781449981214223282.png'},
+  {theme:'pearl',cat:'furniture',color:'light',name:'Peral Gallery',url:'https://peral-gallery.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793454753389326557.webp'},
+  {theme:'pearl',cat:'perfumes',color:'light',name:'Pearl Perfume',url:'https://pearl-perfume.myeasyorders.com/',img:'https://files.easy-orders.net/1793454751952600717.webp'},
+  {theme:'pearl',cat:'watches',color:'light',name:'Pearl Watches',url:'https://pearl-watches.myeasyorders.com',img:'https://files.easy-orders.net/1793454753223671526.webp'},
+  {theme:'pearl',cat:'shoes',color:'light',name:'Peral Bags',url:'https://pearl-bags.myeasyorders.com/',img:'https://files.easy-orders.net/1793454746308081254.webp'},
+  {theme:'pearl',cat:'fashion',color:'light',name:'Luxury Fashion',url:'https://luxury-fashion.myeasyorders.com',img:'https://files.easy-orders.net/1793454753552526703.webp'},
+  {theme:'pearl',cat:'jewelry',color:'light',name:'Peral Jewelry',url:'https://peral-jewelry.myeasyorders.com',img:'https://files.easy-orders.net/1793454753099518199.webp'},
 
   {theme:'blast',cat:'gifts',color:'light',name:'Blast Handmade',url:'https://blast-handmade.myeasyorders.com',img:'https://files.easy-orders.net/1780484400876775433.png'},
   {theme:'blast',cat:'kids',color:'light',name:'Blast Kids',url:'https://blast-kids.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1780484409038839622.png'},
