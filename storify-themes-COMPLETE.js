@@ -284,9 +284,9 @@ const ALL_CARDS = [
 
    // Saudi Theme
   {theme:'saudi',cat:'cosmetics',color:'light',name:'Saudi Cosmetics',url:'https://saudi-cosmetics.myeasyorders.com/',img:'https://files.easy-orders.net/1794850966737637242.webp'},
-  {theme:'saudi',cat:'watches',color:'dark',name:'Saudi Watches',url:'https://saudi-watches.myeasyorders.com/',img:'https://files.easy-orders.net/1794850976085652300.webp'},
+  {theme:'saudi',cat:'watches',color:'light',name:'Saudi Watches',url:'https://saudi-watches.myeasyorders.com/',img:'https://files.easy-orders.net/1794850976085652300.webp'},
   {theme:'saudi',cat:'furniture',color:'light',name:'Saudi Furniture',url:'https://saudi-furniture.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971322052041.webp'},
-  {theme:'saudi',cat:'perfumes',color:'light',name:'Saudi Perfumes',url:'https://saudi-perfumes.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971383214248.webp'},
+  {theme:'saudi',cat:'perfumes',color:'dark',name:'Saudi Perfumes',url:'https://saudi-perfumes.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971383214248.webp'},
   {theme:'saudi',cat:'fashion',color:'light',name:'Saudi Men Fashion',url:'https://saudi-men-fashion.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971128098992.webp'},
   {theme:'saudi',cat:'electronics',color:'light',name:'Saudi Electronics',url:'https://saudi-electronics.myeasyorders.com/',img:'https://files.easy-orders.net/1794850966656300086.webp'},
   {theme:'saudi',cat:'fashion',color:'light',name:'Saudi Fashion',url:'https://saudi-fashion.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971303790035.webp'},
