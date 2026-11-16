@@ -282,15 +282,15 @@ const ALL_CARDS = [
   {theme:'care',cat:'jewelry',color:'light',name:'Care Jewelry',url:'https://care-jewelry.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1791278850403946303.webp'},
   {theme:'care',cat:'garden',color:'light',name:'Care Plants',url:'https://care-plants.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1791278853547881314.webp'},
 
-  // Saudi Theme
-  {theme:'saudi',cat:'cosmetics',color:'light',name:'Saudi Cosmetics',url:'https://saudi-cosmetics.myeasyorders.com/',img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
-  {theme:'saudi',cat:'watches',color:'dark',name:'Saudi Watches',url:'https://saudi-watches.myeasyorders.com/',img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
-  {theme:'saudi',cat:'furniture',color:'light',name:'Saudi Furniture',url:'https://saudi-furniture.myeasyorders.com/',img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
-  {theme:'saudi',cat:'perfumes',color:'light',name:'Saudi Perfumes',url:'https://saudi-perfumes.myeasyorders.com/',img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
-  {theme:'saudi',cat:'fashion',color:'light',name:'Saudi Men Fashion',url:'https://saudi-men-fashion.myeasyorders.com/',img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
-  {theme:'saudi',cat:'electronics',color:'light',name:'Saudi Electronics',url:'https://saudi-electronics.myeasyorders.com/',img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
-  {theme:'saudi',cat:'fashion',color:'light',name:'Saudi Fashion',url:'https://saudi-fashion.myeasyorders.com/',img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'},
-  {theme:'saudi',cat:'shoes',color:'light',name:'Saudi Bags',url:'https://saudi-bags.myeasyorders.com/',img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4TWLf9bRkwD7CB9OaZnxSozAOldVGMXs2amywA316Q&s=10'}
+   // Saudi Theme
+  {theme:'saudi',cat:'cosmetics',color:'light',name:'Saudi Cosmetics',url:'https://saudi-cosmetics.myeasyorders.com/',img:'https://files.easy-orders.net/1794850966737637242.webp'},
+  {theme:'saudi',cat:'watches',color:'dark',name:'Saudi Watches',url:'https://saudi-watches.myeasyorders.com/',img:'https://files.easy-orders.net/1794850976085652300.webp'},
+  {theme:'saudi',cat:'furniture',color:'light',name:'Saudi Furniture',url:'https://saudi-furniture.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971322052041.webp'},
+  {theme:'saudi',cat:'perfumes',color:'light',name:'Saudi Perfumes',url:'https://saudi-perfumes.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971383214248.webp'},
+  {theme:'saudi',cat:'fashion',color:'light',name:'Saudi Men Fashion',url:'https://saudi-men-fashion.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971128098992.webp'},
+  {theme:'saudi',cat:'electronics',color:'light',name:'Saudi Electronics',url:'https://saudi-electronics.myeasyorders.com/',img:'https://files.easy-orders.net/1794850966656300086.webp'},
+  {theme:'saudi',cat:'fashion',color:'light',name:'Saudi Fashion',url:'https://saudi-fashion.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971303790035.webp'},
+  {theme:'saudi',cat:'shoes',color:'light',name:'Saudi Bags',url:'https://saudi-bags.myeasyorders.com/',img:'https://files.easy-orders.net/1794850963972321802.webp'}
 ];
 
 const THEMES = [
