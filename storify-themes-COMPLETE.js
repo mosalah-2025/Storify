@@ -220,7 +220,7 @@ const ALL_CARDS = [
   {theme:'nono',cat:['kids','books'],color:'light',name:'Nono Books',url:'https://nono-books.myeasyorders.com/',img:'https://files.easy-orders.net/1793457311763248011.webp'},
   {theme:'nono',cat:['gifts'],color:'light',name:'Nono Gifts',url:'https://nono-gifts.myeasyorders.com/',img:'https://files.easy-orders.net/1793457311026657193.webp'},
 
-  {theme:'convert',cat:'tools',color:'light',name:'Convert Tools',url:'https://convert-tools.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793461241449588504.webp'},
+ {theme:'convert',cat:'tools',color:'light',name:'Convert Tools',url:'https://convert-tools.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793461241449588504.webp'},
   {theme:'convert',cat:['digital','toys'],color:'dark',name:'Convert Gamers',url:'https://convert-gamers.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1793461249270609738.webp'},
   {theme:'convert',cat:'electronics',color:'light',name:'Convert Electronics',url:'https://convert-electronics.myeasyorders.com/',img:'https://files.easy-orders.net/1793461245288114297.webp'},
   {theme:'convert',cat:'fashion',color:'light',name:'Convert Fashion',url:'https://convert-fashion.myeasyorders.com/',img:'https://files.easy-orders.net/1793461252788286925.webp'},
@@ -282,7 +282,7 @@ const ALL_CARDS = [
   {theme:'care',cat:'jewelry',color:'light',name:'Care Jewelry',url:'https://care-jewelry.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1791278850403946303.webp'},
   {theme:'care',cat:'garden',color:'light',name:'Care Plants',url:'https://care-plants.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1791278853547881314.webp'},
 
-   // Saudi Theme
+  // Saudi Theme
   {theme:'saudi',cat:'cosmetics',color:'light',name:'Saudi Cosmetics',url:'https://saudi-cosmetics.myeasyorders.com/',img:'https://files.easy-orders.net/1794850966737637242.webp'},
   {theme:'saudi',cat:'watches',color:'light',name:'Saudi Watches',url:'https://saudi-watches.myeasyorders.com/',img:'https://files.easy-orders.net/1794850976085652300.webp'},
   {theme:'saudi',cat:'furniture',color:'light',name:'Saudi Furniture',url:'https://saudi-furniture.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971322052041.webp'},
@@ -290,30 +290,40 @@ const ALL_CARDS = [
   {theme:'saudi',cat:'fashion',color:'light',name:'Saudi Men Fashion',url:'https://saudi-men-fashion.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971128098992.webp'},
   {theme:'saudi',cat:'electronics',color:'light',name:'Saudi Electronics',url:'https://saudi-electronics.myeasyorders.com/',img:'https://files.easy-orders.net/1794850966656300086.webp'},
   {theme:'saudi',cat:'fashion',color:'light',name:'Saudi Fashion',url:'https://saudi-fashion.myeasyorders.com/',img:'https://files.easy-orders.net/1794850971303790035.webp'},
-  {theme:'saudi',cat:'shoes',color:'light',name:'Saudi Bags',url:'https://saudi-bags.myeasyorders.com/',img:'https://files.easy-orders.net/1794850963972321802.webp'}
+  {theme:'saudi',cat:'shoes',color:'light',name:'Saudi Bags',url:'https://saudi-bags.myeasyorders.com/',img:'https://files.easy-orders.net/1794850963972321802.webp'},
+
+  {theme:'outline',cat:'books',color:'light',name:'Outline Books',url:'https://outline-books.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1795370025313254241.webp'},
+  {theme:'outline',cat:'jewelry',color:'light',name:'Outline Jewelry',url:'https://outline-jewelry.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1795370039868104287.webp'},
+  {theme:'outline',cat:'fashion',color:'light',name:'Outline Fashion',url:'https://outline-fashion.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1795370038695965749.webp'},
+  {theme:'outline',cat:'food',color:'light',name:'Outline Coffee',url:'https://outline-coffee.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1795370039819376653.webp'},
+  {theme:'outline',cat:'furniture',color:'light',name:'Outline Decore',url:'https://outline-decore.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1795370037259232802.webp'},
+  {theme:'outline',cat:['digital','electronics'],color:'dark',name:'Outline Gamers',url:'https://outline-gamers.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1795370038426409312.webp'},
+  {theme:'outline',cat:'shoes',color:'light',name:'Outline Shoes',url:'https://outline-shoes.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1795370033546426927.webp'},
+  {theme:'outline',cat:'toys',color:'light',name:'Outline Toys',url:'https://outline-toys.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1795370037426764572.webp'}
+];
+const THEMES = [
+  {id:'nature',label:'Nature'},
+  {id:'hype',label:'Hype'},
+  {id:'elite',label:'Elite'},
+  {id:'phoenix',label:'Phoenix'},
+  {id:'pearl',label:'Pearl'},
+  {id:'blast',label:'Blast'},
+  {id:'volta',label:'Volta'},
+  {id:'sharp',label:'Sharp'},
+  {id:'prime',label:'Prime'},
+  {id:'seven',label:'Seven'},
+  {id:'nono',label:'Nono'},
+  {id:'convert',label:'Convert'},
+  {id:'pure',label:'Pure'},
+  {id:'void',label:'Void'},
+  {id:'easyfood',label:'Easyfood'},
+  {id:'vantage',label:'Vantage'},
+  {id:'lines',label:'Lines'},
+  {id:'care',label:'Care'},
+  {id:'saudi',label:'Saudi'},
+  {id:'outline',label:'Outline'}
 ];
 
-const THEMES = [
-  {id:"nature",label:"Nature"},
-  {id:"hype",label:"Hype"},
-  {id:"elite",label:"Elite"},
-  {id:"phoenix",label:"Phoenix"},
-  {id:"pearl",label:"Pearl"},
-  {id:"blast",label:"Blast"},
-  {id:"volta",label:"Volta"},
-  {id:"sharp",label:"Sharp"},
-  {id:"prime",label:"Prime"},
-  {id:"seven",label:"Seven"},
-  {id:"nono",label:"Nono"},
-  {id:"convert",label:"Convert"},
-  {id:"pure",label:"Pure"},
-  {id:"void",label:"Void"},
-  {id:"easyfood",label:"Easyfood"},
-  {id:"vantage",label:"Vantage"},
-  {id:"lines",label:"Lines"},
-  {id:"care",label:"Care"},
-  {id:"saudi",label:"Saudi"}
-];
 
 const COLORS = [
   {id:"dark",label:"Dark Mode",dot:"dot-dark"},
@@ -381,6 +391,7 @@ function cardMatchesFeature(card,featureId) {
   if (feature.themes === "all") return true;
   return feature.themes.includes(card.theme);
 }
+
 
 function buildMobileSortHTML() {
   return SORT_OPTIONS
