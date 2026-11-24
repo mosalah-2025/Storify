@@ -309,7 +309,7 @@ const ALL_CARDS = [
   {theme:'velar',cat:'electronics',color:'dark',name:'Velar Gamers',url:'https://velar-gamers.myeasyorders.com/',img:'https://files.easy-orders.net/1795544000855649085.webp'},
   {theme:'velar',cat:'jewelry',color:'light',name:'Velar Jewelry',url:'https://velar-jewelry.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1795543999557456262.webp'},
   {theme:'velar',cat:'electronics',color:'light',name:'Velar Electronics',url:'https://velar-electronics.myeasyorders.com/',img:'https://files.easy-orders.net/1795543986425055944.webp'},
-  {theme:'velar',cat:'watches',color:'light',name:'Velar Glasses',url:'https://velar-glasses.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1795543999557456262.webp'}
+  {theme:'velar',cat:'watches',color:'light',name:'Velar Glasses',url:'https://velar-glasses.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1795543998686488327.webp'}
 ];
 
 const THEMES = [
