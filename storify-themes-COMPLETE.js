@@ -300,16 +300,16 @@ const ALL_CARDS = [
   {theme:'outline',cat:'shoes',color:'light',name:'Outline Shoes',url:'https://outline-shoes.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1795370033546426927.webp'},
   {theme:'outline',cat:'toys',color:'light',name:'Outline Toys',url:'https://outline-toys.myeasyorders.com',bestSeller:true,img:'https://files.easy-orders.net/1795370037426764572.webp'},
  
-  {theme:'velar',cat:'cosmetics',color:'light',name:'Velar Cosmetics',url:'https://velar-cosmetics.myeasyorders.com/',bestSeller:true,img:''},
-  {theme:'velar',cat:'fashion',color:'light',name:'Velar Fashion',url:'https://velar-fashion.myeasyorders.com/',bestSeller:true,img:''},
-  {theme:'velar',cat:['toys','general'],color:'light',name:'Velar Bicycle',url:'https://velar-bicycle.myeasyorders.com/',img:''},
-  {theme:'velar',cat:'shoes',color:'light',name:'Velar Shoes',url:'https://velar-shoes.myeasyorders.com/',bestSeller:true,img:''},
-  {theme:'velar',cat:'perfumes',color:'light',name:'Velar Perfumes',url:'https://velar-perfumes.myeasyorders.com/',img:''},
-  {theme:'velar',cat:'shoes',color:'light',name:'Velar Bags',url:'https://velar-bags.myeasyorders.com/',img:''},
-  {theme:'velar',cat:'electronics',color:'dark',name:'Velar Gamers',url:'https://velar-gamers.myeasyorders.com/',img:''},
-  {theme:'velar',cat:'jewelry',color:'light',name:'Velar Jewelry',url:'https://velar-jewelry.myeasyorders.com/',bestSeller:true,img:''},
-  {theme:'velar',cat:'electronics',color:'light',name:'Velar Electronics',url:'https://velar-electronics.myeasyorders.com/',img:''},
-  {theme:'velar',cat:'watches',color:'light',name:'Velar Glasses',url:'https://velar-glasses.myeasyorders.com/',bestSeller:true,img:''}
+  {theme:'velar',cat:'cosmetics',color:'light',name:'Velar Cosmetics',url:'https://velar-cosmetics.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1795543998686179987.webp'},
+  {theme:'velar',cat:'fashion',color:'light',name:'Velar Fashion',url:'https://velar-fashion.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1795543999407634783.webp'},
+  {theme:'velar',cat:['toys','general'],color:'light',name:'Velar Bicycle',url:'https://velar-bicycle.myeasyorders.com/',img:'https://files.easy-orders.net/1795543998687088700.webp'},
+  {theme:'velar',cat:'shoes',color:'light',name:'Velar Shoes',url:'https://velar-shoes.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1795543998686912091.webp'},
+  {theme:'velar',cat:'perfumes',color:'light',name:'Velar Perfumes',url:'https://velar-perfumes.myeasyorders.com/',img:'https://files.easy-orders.net/1795543998686673803.webp'},
+  {theme:'velar',cat:'shoes',color:'light',name:'Velar Bags',url:'https://velar-bags.myeasyorders.com/',img:'https://files.easy-orders.net/1795543998686790256.webp'},
+  {theme:'velar',cat:'electronics',color:'dark',name:'Velar Gamers',url:'https://velar-gamers.myeasyorders.com/',img:'https://files.easy-orders.net/1795544000855649085.webp'},
+  {theme:'velar',cat:'jewelry',color:'light',name:'Velar Jewelry',url:'https://velar-jewelry.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1795543999557456262.webp'},
+  {theme:'velar',cat:'electronics',color:'light',name:'Velar Electronics',url:'https://velar-electronics.myeasyorders.com/',img:'https://files.easy-orders.net/1795543986425055944.webp'},
+  {theme:'velar',cat:'watches',color:'light',name:'Velar Glasses',url:'https://velar-glasses.myeasyorders.com/',bestSeller:true,img:'https://files.easy-orders.net/1795543999557456262.webp'}
 ];
 
 const THEMES = [
